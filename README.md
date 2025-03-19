@@ -11,11 +11,6 @@ This project demonstrates a system for processing PDF documents, extracting text
 - Semantic search using OpenAI embeddings
 - Metadata preservation and retrieval
 
-## Prerequisites
-
-- Python 3.9 or higher
-- Poppler (for PDF image extraction)
-- OpenAI API key
 
 ## Installation
 
