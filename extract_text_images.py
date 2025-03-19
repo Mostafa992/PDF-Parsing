@@ -36,8 +36,7 @@ def extract_text_and_images(pdf_path, output_folder):
     print(f"Extraction complete. Files saved in {output_folder}")
     return content_dict
 
-# Usage
-
+# test
 if __name__ == "__main__":
     pdf_path = "/Users/mostafaelgharib/Desktop/prep_sprint/project_1/the-economics-of-global-climate-change.pdf"
     output_folder = "images_out"
